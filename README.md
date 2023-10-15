@@ -1,10 +1,11 @@
-# Calculadora em JavaScript
+# Calculadora de juros
 
-Uma simples calculadora em JavaScript que permite realizar operações matemáticas básicas.
+Meu primeiro projeto, a proposta foi criar um sistema que calculasse os juros de uma dívida com base no número de dias passados. Foi realizado em JavaScript.
 
-## Funcionalidades
+## Foi colocado em prática os seguintes conceitos:
 
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
+- Variáveis
+- Operadores
+- Tipos de dados
+- Input
+- Estruturas condicionais
